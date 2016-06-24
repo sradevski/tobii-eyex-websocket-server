@@ -1,0 +1,6 @@
+C:\Users\kenjiro\Documents\Visual Studio 2015\Projects\TobiiSocketServer\EyeXFramework\bin\x64\Debug\Tobii.EyeX.Client.Net20.dll
+C:\Users\kenjiro\Documents\Visual Studio 2015\Projects\TobiiSocketServer\EyeXFramework\bin\x64\Debug\EyeXFramework.dll
+C:\Users\kenjiro\Documents\Visual Studio 2015\Projects\TobiiSocketServer\EyeXFramework\bin\x64\Debug\EyeXFramework.pdb
+C:\Users\kenjiro\Documents\Visual Studio 2015\Projects\TobiiSocketServer\EyeXFramework\obj\x64\Debug\EyeXFramework.csprojResolveAssemblyReference.cache
+C:\Users\kenjiro\Documents\Visual Studio 2015\Projects\TobiiSocketServer\EyeXFramework\obj\x64\Debug\EyeXFramework.dll
+C:\Users\kenjiro\Documents\Visual Studio 2015\Projects\TobiiSocketServer\EyeXFramework\obj\x64\Debug\EyeXFramework.pdb

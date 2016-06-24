@@ -1,0 +1,5 @@
+C:\Users\kenjiro\Documents\Visual Studio 2015\Projects\TobiiSocketServer\EyeXFramework\bin\x64\Release\Tobii.EyeX.Client.Net20.dll
+C:\Users\kenjiro\Documents\Visual Studio 2015\Projects\TobiiSocketServer\EyeXFramework\bin\x64\Release\EyeXFramework.dll
+C:\Users\kenjiro\Documents\Visual Studio 2015\Projects\TobiiSocketServer\EyeXFramework\bin\x64\Release\EyeXFramework.pdb
+C:\Users\kenjiro\Documents\Visual Studio 2015\Projects\TobiiSocketServer\EyeXFramework\obj\x64\Release\EyeXFramework.dll
+C:\Users\kenjiro\Documents\Visual Studio 2015\Projects\TobiiSocketServer\EyeXFramework\obj\x64\Release\EyeXFramework.pdb
