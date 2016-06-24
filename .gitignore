@@ -1,2 +1,9 @@
+# OS
+# ===========
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
 /TobiiSocketServer/obj/
 /TobiiSocketServer/bin/
