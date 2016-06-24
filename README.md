@@ -1,6 +1,6 @@
 ## Synopsis
 
-**Tobii Web Socket Server** is a Web Socket Server that wraps the Tobii EyeX SDK and transmits the data through web sockets. It is primarily used for (EyeNav)[https://github.com/sradevski/eyenav] although you may use it in your application.
+**Tobii Web Socket Server** is a Web Socket Server that wraps the Tobii EyeX SDK and transmits the data through web sockets. It is primarily used for [EyeNav](https://github.com/sradevski/eyenav) although you may use it in your application.
 
 ## Usage
 
